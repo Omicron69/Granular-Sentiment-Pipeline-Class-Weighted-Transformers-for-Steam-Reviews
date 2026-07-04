@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Data & model artifacts
+*.csv
+*.parquet
+checkpoints/
+*.bin
+*.pt
+*.safetensors
+
+# OS
+.DS_Store
