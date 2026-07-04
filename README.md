@@ -2,7 +2,6 @@
 
 Fine-tuning three transformer architectures (DistilBERT, BERTweet, RoBERTa) to classify Steam game reviews into a **custom 6-class sentiment taxonomy**, extending beyond Steam's native binary "recommended / not recommended" label to give game developers actionable, dimension-specific feedback.
 
-> Originally built for CI7525 (Natural Language Processing), Kingston University London.
 
 ## Why this project
 
